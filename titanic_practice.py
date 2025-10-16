@@ -1,5 +1,5 @@
-import pandas as pd 
-import matplotlib.pyplot as plt 
+import pandas as pd
+import matplotlib.pyplot as plt
 df = pd.read_csv("train.csv")
 #Inspect the dataset (head(),info(),describe())
 print("First 5 rows of the dataset")
